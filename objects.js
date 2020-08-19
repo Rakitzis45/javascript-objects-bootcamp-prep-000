@@ -7,6 +7,6 @@ var playlist = {
 41 : {
   artist : "Sum 41",
   tracks : "Fat Lip",
-            "In Too Deep";
+            "In Too Deep",
 }
 }
